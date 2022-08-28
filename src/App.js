@@ -68,3 +68,5 @@ const App = prop => {
 }
 
 export default App;
+
+// git remote add origin https://github.com/Pixel-on-Q/REACT.git
